@@ -1,7 +1,7 @@
 <h1 align="center">🧠 Raman Dubey</h1>
 <p align="center">
   <b>Cybersecurity Student | Ethical Hacker | Terminal Artist</b><br>
-  <i>Securing systems one vulnerability at a time — and memeing along the way</i>
+  <i>Fixing vulnerabilities while Googling "how to fix vulnerabilities"</i>
 </p>
 
 <p align="center">
@@ -17,11 +17,11 @@ root@github:~$ whoami
 Cybersecurity enthusiast | Bug bounty explorer | Builder of weird terminal things
 ```
 
-- 🏫 BTech Cybersecurity @ Sharda University  
+- 🏫 BTech AI/ML but loves cybersecurity   
 - 💣 Learning pentesting, web security, OSINT & tool development  
 - 🧠 Red-teaming my brain since day one  
 - 🕵️ Focused on breaking systems — ethically  
-- 🔐 Founder of [InsideSharda](https://github.com/rmndubey25/InsideSharda) — anonymous whistleblower platform
+- 🔐 Founder of [Redacted](https://github.com/rmndubey25/Redacted) — anonymous whistleblower platform
 
 ---
 
@@ -44,9 +44,8 @@ root@github:~$ cat skills.md
 | Project | Description |
 |--------|-------------|
 | [🧠 Terminal Portfolio](https://rmndubey25.github.io/terminal) | Hacker-themed personal site that runs like a Linux shell |
-| [📋 AutoForm Agent](https://github.com/rmndubey25/autoform-agent) | Chrome extension to fill Indian govt forms with AI + Digilocker |
-| [🔍 HackLab](https://github.com/rmndubey25/hacklab) *(WIP)* | Web-based playground to learn & test vulns |
-| [💬 InsideSharda](https://github.com/rmndubey25/InsideSharda) | Anonymous whistleblower & gossip app for students |
+| [📋 AutoForm Agent](https://github.com/rmndubey25/autoform-agent) | (WORKING ON IT). Chrome extension to fill Indian govt forms with AI + Digilocker |
+| [💬 Redacted](https://github.com/rmndubey25/Redacted) | Anonymous whistleblower & gossip app for Redacted |
 
 ---
 
@@ -75,7 +74,7 @@ nmap --target myself  # All ports open, no firewall
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rmndubey25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://donkey.com)
 [![Website](https://img.shields.io/badge/Website-%2300ff90?style=flat&logo=github)](https://rmndubey25.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E?logo=github)](https://github.com/rmndubey25)
 
