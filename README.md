@@ -1,6 +1,6 @@
 <h1 align="center">🧠 Raman </h1>
 <p align="center">
-  <b>Cybersecurity Student | Ethical Hacker | Terminal Artist</b><br>
+  <b>| Cybersecurity Student |</b><br>
   <i>Fixing vulnerabilities while Googling "how to fix vulnerabilities"</i>
 </p>
 
