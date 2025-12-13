@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Raman </h1>
+<h1 align="center"> Raman </h1>
 <p align="center">
   <b>| Cybersecurity Student |</b><br>
   <i>Fixing vulnerabilities while Googling "how to fix vulnerabilities"</i>
@@ -10,46 +10,46 @@
 
 ---
 
-### 🐍 Whoami
+###  Whoami
 
 ```bash
 root@github:~$ whoami
 Cybersecurity enthusiast | Bug bounty explorer | Builder of weird terminal things
 ```
 
-- 🏫 BTech AI/ML but loves cybersecurity   
-- 💣 Learning pentesting, web security, OSINT & tool development  
-- 🧠 Red-teaming my brain since day one  
-- 🕵️ Focused on breaking systems — ethically  
-- 🔐 Founder of [Redacted](https://github.com/rmndubey25/Redacted) — anonymous whistleblower platform
+-  BTech AI/ML but loves cybersecurity   
+-  Learning pentesting, web security, OSINT & tool development  
+-  Red-teaming my brain since day one  
+-  Focused on breaking systems — ethically  
+-  Founder of [Redacted](https://github.com/rmndubey25/Redacted) — anonymous whistleblower platform
 
 ---
 
-### 💥 Skills Arsenal
+###  Skills Arsenal
 
 ```bash
 root@github:~$ cat skills.md
 ```
 
-- 🔍 Reconnaissance: Nmap, Subfinder, Amass
-- 🧪 Exploitation: Burp Suite, SQLMap, XSS payload crafting
-- 🧰 Tools: Python, JavaScript, Bash, Frida, ADB
-- 🔗 Networks: Wireshark, MITM attacks, VPN tunneling
-- 🧱 Platforms: Kali Linux, Ubuntu, Windows, VirtualBox
+-  Reconnaissance: Nmap, Subfinder, Amass
+-  Exploitation: Burp Suite, SQLMap, XSS payload crafting
+-  Tools: Python, JavaScript, Bash, Frida, ADB
+-  Networks: Wireshark, MITM attacks, VPN tunneling
+-  Platforms: Kali Linux, Ubuntu, Windows, VirtualBox
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description |
 |--------|-------------|
-| [🧠 Terminal Portfolio](https://rmndubey25.github.io/terminal) | Hacker-themed personal site that runs like a Linux shell |
-| [📋 AutoForm Agent](https://github.com/rmndubey25/autoform-agent) | (WORKING ON IT). Chrome extension to fill Indian govt forms with AI + Digilocker |
-| [💬 Redacted](https://github.com/rmndubey25/Redacted) | Anonymous whistleblower & gossip app for Redacted |
+| [ Terminal Portfolio](https://rmndubey25.github.io/terminal) | Hacker-themed personal site that runs like a Linux shell |
+| [ AutoForm Agent](https://github.com/rmndubey25/autoform-agent) | (WORKING ON IT). Chrome extension to fill Indian govt forms with AI + Digilocker |
+| [ Redacted](https://github.com/rmndubey25/Redacted) | Anonymous whistleblower & gossip app for Redacted |
 
 ---
 
-### 📚 Current Status
+###  Current Status
 
 ```bash
 root@rmndubey25:~$ sudo apt-get install hacking-brain
@@ -61,7 +61,7 @@ Ethical mindset is already the newest version.
 
 ---
 
-### 🧠 Fun Commands That Exist in My Terminal Site
+###  Fun Commands That Exist in My Terminal Site
 
 ```bash
 cat secrets.txt       # Cybersecurity memes
@@ -80,7 +80,7 @@ nmap --target myself  # All ports open, no firewall
 
 ---
 
-> 💬 “The difference between a hacker and a criminal is permission and intent.”
+>  “The difference between a hacker and a criminal is permission and intent.”
 
 ---
 
